@@ -11,7 +11,7 @@ import (
 	"log"
 	"net/http"
 
-	sw "github.com/midorigreen/sample-swagger-go/go"
+	sw "github.com/midorigreen/sample-swagger-go/handler"
 )
 
 func main() {
